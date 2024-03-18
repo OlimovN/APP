@@ -24,6 +24,16 @@ const projects = [
     githubLink: "https://github.com/OlimovN/uzbekistan",
     vercelLink: "https://vercel.com/nurmukhammads-projects/uzbekistan",
   },
+  {
+    title: " vazifa",
+    githubLink: "https://github.com/OlimovN/figma-11",
+    vercelLink: "https://figma-11.vercel.app/",
+  },
+  {
+    title: " vazifa 2-figma",
+    githubLink: "https://github.com/OlimovN/figma3",
+    vercelLink: "https://figma3-rho.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
