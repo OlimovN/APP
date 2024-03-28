@@ -25,14 +25,24 @@ const projects = [
     vercelLink: "https://vercel.com/nurmukhammads-projects/uzbekistan",
   },
   {
-    title: " vazifa",
+    title: " Vazifa",
     githubLink: "https://github.com/OlimovN/figma-11",
     vercelLink: "https://figma-11.vercel.app/",
   },
   {
-    title: " vazifa 2-figma",
+    title: " Vazifa 2-figma",
     githubLink: "https://github.com/OlimovN/figma3",
     vercelLink: "https://figma3-rho.vercel.app/",
+  },
+  {
+    title: " Calculator",
+    githubLink: "https://github.com/OlimovN/calculator",
+    vercelLink: "https://calculator-sigma-beige.vercel.app/",
+  },
+  {
+    title: "Natural trip",
+    githubLink: "https://github.com/OlimovN/DAVLATLAR",
+    vercelLink: "https://davlatlar-lovat.vercel.app/",
   },
 ];
 
