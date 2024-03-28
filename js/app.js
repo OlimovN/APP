@@ -35,7 +35,7 @@ const projects = [
     vercelLink: "https://figma3-rho.vercel.app/",
   },
   {
-    title: " Calculator",
+    title: "Tip Calculator",
     githubLink: "https://github.com/OlimovN/calculator",
     vercelLink: "https://calculator-sigma-beige.vercel.app/",
   },
